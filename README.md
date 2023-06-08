@@ -17,7 +17,9 @@ Feel free to explore my repositories and projects. I'm constantly learning and w
 Happy coding! 😄🚀
 
 <!-- Animation Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="Coding Gif" />
+</p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
 
 <p align="center">Keep calm and code on! ✨👨‍💻✨</p>
