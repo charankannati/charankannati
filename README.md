@@ -19,7 +19,7 @@ Happy coding! 😄🚀
 <!-- Animation Section -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/gx54V9WTRLlo6/giphy.gif" alt="Coding Gif" />
+  <iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
 </p>
 
 <p align="center">Keep calm and code on! ✨👨‍💻✨</p>
