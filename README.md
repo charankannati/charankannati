@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 👀 I'm interested in [insert your interests, such as software development, artificial intelligence, web development, etc.].
-- 🌱 I'm currently learning [mention what you're currently learning or exploring].
-- 💞️ I'm looking to collaborate on [describe the types of projects or areas where you'd like to collaborate].
-- 📫 You can reach me through [mention your preferred method of contact, such as email, LinkedIn, or Twitter].
+- 👀 I'm interested in Blockchain developemt.
+- 🌱 I'm currently learning time lock wallet.
+- 💞️ I'm looking to collaborate on various projects involving blockchain.
+- 📫 You can reach me through [https://www.linkedin.com/in/charan-kannati].
 
 <!---
 charankannati/charankannati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
